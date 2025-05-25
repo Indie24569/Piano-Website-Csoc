@@ -34,6 +34,7 @@ h1 {
   color: black;
   margin-right: 0;
   border: 1px solid #0b0b0b;
+  border-radius:5px;
 }
 
 .black {
@@ -42,6 +43,7 @@ h1 {
   background: black;
   position: absolute;
   top: 0;
+  border-radius: 5px;
 }
 
 .black[data-note="C#"] { left: 45px; }
